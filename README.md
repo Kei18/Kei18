@@ -12,6 +12,6 @@ My research focuses on controlling multiple moving agents. More info? Check [my 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=omron-sinicx&repo=ctrm&show_owner=true)](https://github.com/omron-sinicx/ctrm)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=kei18&repo=pibt2)](https://github.com/kei18/pibt2)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=kei18&repo=mapf-IR)](https://github.com/kei18/mapf-IR)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=kei18&repo=time-independent-planning)](https://github.com/omron-sinicx/time-independent-planning)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=kei18&repo=time-independent-planning)](https://github.com/kei18/time-independent-planning)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=kei18&repo=pibt)](https://github.com/kei18/pibt)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=kei18&repo=grid-pathfinding)](https://github.com/kei18/grid-pathfinding)

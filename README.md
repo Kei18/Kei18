@@ -8,6 +8,7 @@ My research focuses on controlling multiple moving agents. More info? Check [my 
 
 ## selected projects
 
+[![](https://github-readme-stats.vercel.app/api/pin/?username=kei18&repo=otimapp)](https://github.com/kei18/otimapp)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=kei18&repo=sssp&lang=julia)](https://github.com/kei18/sssp)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=kei18&repo=tswap)](https://github.com/kei18/tswap)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=omron-sinicx&repo=ctrm&lang=python&show_owner=true&lang=python)](https://github.com/omron-sinicx/ctrm)
@@ -21,3 +22,5 @@ My research focuses on controlling multiple moving agents. More info? Check [my 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=kei18&repo=grid-pathfinding)](https://github.com/kei18/grid-pathfinding)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=kei18&repo=latex-template)](https://github.com/kei18/latex-template)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=kei18&repo=dotfiles)](https://github.com/kei18/dotfiles)
+=======
+>>>>>>> debe3e06f3f5aa19b2f0529a44401f3a1460e795

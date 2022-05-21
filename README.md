@@ -15,4 +15,9 @@ My research focuses on controlling multiple moving agents. More info? Check [my 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=kei18&repo=mapf-IR)](https://github.com/kei18/mapf-IR)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=kei18&repo=time-independent-planning)](https://github.com/kei18/time-independent-planning)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=kei18&repo=pibt)](https://github.com/kei18/pibt)
+
+## research utils
+
 [![](https://github-readme-stats.vercel.app/api/pin/?username=kei18&repo=grid-pathfinding)](https://github.com/kei18/grid-pathfinding)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=kei18&repo=latex-template)](https://github.com/kei18/latex-template)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=kei18&repo=dotfiles)](https://github.com/kei18/dotfiles)

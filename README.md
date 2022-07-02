@@ -19,6 +19,7 @@ My research focuses on controlling multiple moving agents. More info? Check [my 
 
 ## research utils
 
+[![](https://github-readme-stats.vercel.app/api/pin/?username=kei18&repo=awesome_cs-ja_phd_life)](https://github.com/Kei18/awesome_cs-ja_phd_life)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=kei18&repo=grid-pathfinding)](https://github.com/kei18/grid-pathfinding)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=kei18&repo=latex-template)](https://github.com/kei18/latex-template)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=kei18&repo=dotfiles)](https://github.com/kei18/dotfiles)

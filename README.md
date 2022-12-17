@@ -9,7 +9,7 @@ My research focuses on controlling multiple moving agents. More info? Check [my 
 ## selected projects
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=kei18&repo=lacam)](https://github.com/kei18/lacam)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=kei18&repo=mappcf)](https://github.com/kei18/mappc)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=kei18&repo=mappcf)](https://github.com/kei18/mappcf)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=kei18&repo=otimapp)](https://github.com/kei18/otimapp)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=kei18&repo=tswap)](https://github.com/kei18/tswap)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=omron-sinicx&repo=ctrm&lang=python&show_owner=true&lang=python)](https://github.com/omron-sinicx/ctrm)

@@ -1,5 +1,5 @@
-Hi there 👋, I'm Keisuke Okumura, a Ph.D. student in CS at Tokyo Institute of Technology.
-My research focuses on controlling multiple moving agents. More info? Check [my website](https://kei18.github.io/).
+Hi there 👋, I'm Keisuke Okumura, a researcher in AI & robotics, planning.
+My research focuses on controlling multiple moving agents. More info? Check out [my website](https://kei18.github.io/).
 
 ![](./images/top.gif)
 

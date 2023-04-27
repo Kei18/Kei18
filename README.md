@@ -8,6 +8,7 @@ My research focuses on controlling multiple moving agents. More info? Check out 
 
 ## selected projects
 
+[![](https://github-readme-stats.vercel.app/api/pin/?username=kei18&repo=sssp)](https://github.com/kei18/sssp)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=kei18&repo=lacam)](https://github.com/kei18/lacam)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=kei18&repo=mappcf)](https://github.com/kei18/mappcf)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=kei18&repo=otimapp)](https://github.com/kei18/otimapp)

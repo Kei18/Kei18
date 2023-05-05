@@ -1,4 +1,4 @@
-Hi there 👋, I'm Keisuke Okumura, a researcher in AI & robotics, planning.
+Hi there 👋, I'm Keisuke Okumura, a researcher in AI & robotics, planning, and multi-agent systems.
 My research focuses on controlling multiple moving agents. More info? Check out [my website](https://kei18.github.io/).
 
 ![](./images/top.gif)

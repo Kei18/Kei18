@@ -8,16 +8,24 @@ My research focuses on controlling multiple moving agents. More info? Check out 
 
 ## selected projects
 
+### quick pathfinding
+
+[![](https://github-readme-stats.vercel.app/api/pin/?username=kei18&repo=lacam3)](https://github.com/kei18/lacam3)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=kei18&repo=lacam2)](https://github.com/kei18/lacam2)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=kei18&repo=sssp)](https://github.com/kei18/sssp)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=kei18&repo=lacam)](https://github.com/kei18/lacam)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=kei18&repo=pibt2)](https://github.com/kei18/pibt2)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=kei18&repo=tswap)](https://github.com/kei18/tswap)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=kei18&repo=mapf-IR)](https://github.com/kei18/mapf-IR)
+
+### planning with uncertainties
+
 [![](https://github-readme-stats.vercel.app/api/pin/?username=kei18&repo=mappcf)](https://github.com/kei18/mappcf)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=kei18&repo=otimapp)](https://github.com/kei18/otimapp)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=kei18&repo=tswap)](https://github.com/kei18/tswap)
+
+### with flavor of motion planning
+
 [![](https://github-readme-stats.vercel.app/api/pin/?username=omron-sinicx&repo=ctrm&lang=python&show_owner=true&lang=python)](https://github.com/omron-sinicx/ctrm)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=kei18&repo=pibt2)](https://github.com/kei18/pibt2)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=kei18&repo=mapf-IR)](https://github.com/kei18/mapf-IR)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=kei18&repo=time-independent-planning)](https://github.com/kei18/time-independent-planning)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=kei18&repo=sssp)](https://github.com/kei18/sssp)
 
 ## research utils
 

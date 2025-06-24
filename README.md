@@ -10,12 +10,9 @@ My research focuses on controlling multiple moving agents. More info? Check out 
 
 ### quick pathfinding
 
+[![](https://github-readme-stats.vercel.app/api/pin/?username=kei18&repo=lacam3)](https://github.com/kei18/lacam0)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=kei18&repo=lacam3)](https://github.com/kei18/lacam3)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=kei18&repo=lacam2)](https://github.com/kei18/lacam2)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=kei18&repo=lacam)](https://github.com/kei18/lacam)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=kei18&repo=pibt2)](https://github.com/kei18/pibt2)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=kei18&repo=tswap)](https://github.com/kei18/tswap)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=kei18&repo=mapf-IR)](https://github.com/kei18/mapf-IR)
 
 ### planning with uncertainties
 

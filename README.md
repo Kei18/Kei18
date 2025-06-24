@@ -10,7 +10,7 @@ My research focuses on controlling multiple moving agents. More info? Check out 
 
 ### quick pathfinding
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=kei18&repo=lacam3)](https://github.com/kei18/lacam0)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=kei18&repo=lacam0)](https://github.com/kei18/lacam0)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=kei18&repo=lacam3)](https://github.com/kei18/lacam3)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=kei18&repo=tswap)](https://github.com/kei18/tswap)
 

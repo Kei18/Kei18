@@ -5,8 +5,7 @@ Hi there 👋, I'm Keisuke Okumura (kei18), a researcher interested in multi-age
 [LinkedIn](https://www.linkedin.com/in/kei18/) /
 [X](https://x.com/_kei18)
 
-<img src="images/01.gif" height="120px" /> <img src="images/02.gif" height="120px" /> <img src="images/03.gif" height="120px" /> <img src="images/04.gif" height="120px" /> <img src="images/05.gif" height="120px" /> <img src="images/06.gif" height="120px" /> <img src="images/08.gif" height="120px" /> <img src="images/07.gif" height="120px" /> <img src="images/09.gif" height="120px" />
-
+<img src="images/02.gif" width="auto" /> 
 
 ![Kei18's GitHub stats](https://github-readme-stats.vercel.app/api?username=kei18&count_private=false&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kei18&exclude_repo=dotfiles&hide=Jupyter%20Notebook,Smalltalk,CMake,Makefile&langs_count=10&layout=compact)

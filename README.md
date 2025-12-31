@@ -19,6 +19,7 @@ Hi there 👋, I'm Keisuke Okumura (kei18), a researcher interested in multi-age
 
 - [lacam0](https://github.com/kei18/lacam0): Refactored C++ implementation of LaCAM
 - [lacam3](https://github.com/kei18/lacam3): One of the most powerful MAPF solvers to date
+- [lagat](https://github.com/proroklab/lagat): Neuro-guided search
 
 ### Simplified Series
 

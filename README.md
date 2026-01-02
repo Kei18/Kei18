@@ -13,6 +13,7 @@ Hi there 👋, I'm Keisuke Okumura (kei18), a researcher interested in multi-age
 - [project-page-generator](https://github.com/Kei18/project-page-generator): Simple project-page generator, assuming hosted on GitHub Pages
 - [latex-template](https://github.com/kei18/latex-template): Best practice for latex projects
 - [mapf-visualizer](https://github.com/kei18/mapf-visualizer): Simple & scalable MAPF visualizer for research usage
+- [comet-stack](https://github.com/Kei18/comet-stack): Generate comet stacking images from movies
 - [dotfiles](https://github.com/kei18/dotfiles): My config
 
 ### Leading MAPF Methods
@@ -26,4 +27,4 @@ Hi there 👋, I'm Keisuke Okumura (kei18), a researcher interested in multi-age
 - [pypibt](https://github.com/kei18/pypibt): PIBT, a lightweight configuration generator for MAPF problems
 - [pylacam](https://github.com/kei18/pylacam): LaCAM, a ultra-fast MAPF algorithm
 - [pytswap](https://github.com/kei18/pytswap): TSWAP, a scalable suboptimal algorithm for unlabeled-MAPF
-- [distilled-d4orm](https://github.com/Kei18/distill-d4orm): D4orm, sampling-based multi-robot trajectory smoother
+- [distill-d4orm](https://github.com/Kei18/distill-d4orm): D4orm, sampling-based multi-robot trajectory smoother

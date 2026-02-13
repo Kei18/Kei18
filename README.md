@@ -28,3 +28,4 @@ Hi there 👋, I'm Keisuke Okumura (kei18), a researcher interested in multi-age
 - [pylacam](https://github.com/kei18/pylacam): LaCAM, a ultra-fast MAPF algorithm
 - [pytswap](https://github.com/kei18/pytswap): TSWAP, a scalable suboptimal algorithm for unlabeled-MAPF
 - [distill-d4orm](https://github.com/Kei18/distill-d4orm): D4orm, sampling-based multi-robot trajectory smoother
+- [distill-lagat](https://github.com/proroklab/distill-lagat): LaGAT, neuro-hybrid search for MAPF
